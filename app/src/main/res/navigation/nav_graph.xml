@@ -27,5 +27,9 @@
         android:id="@+id/endGamePopupFragment"
         android:name="com.example.memorymatch.EndGamePopupFragment"
         android:label="fragment_end_game_popup"
-        tools:layout="@layout/fragment_end_game_popup" />
+        tools:layout="@layout/fragment_end_game_popup" >
+        <action
+            android:id="@+id/nav_end_start"
+            app:destination="@id/menuFragment" />
+    </fragment>
 </navigation>

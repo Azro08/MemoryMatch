@@ -5,4 +5,7 @@
     <string name="play">PLAY</string>
     <string name="game_msg">Keep matching up two of the same objects until there are no more to be paired and you clear the board. \n\n fast</string>
     <string name="_100">100</string>
+    <string name="great_you_won">[Great You won!]</string>
+    <string name="congratiolation">[CONGRATIOLATION!]</string>
+    <string name="double_reward">Double Reward</string>
 </resources>
